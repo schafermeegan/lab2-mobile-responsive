@@ -36,6 +36,7 @@ body {
     text-align: center;
     padding: 12px 25px;
     border-radius: 22px;
+    justify-content: center;
 }
 
 
@@ -61,6 +62,7 @@ p {
     padding: 12px 1px;
     border-radius: 22px;
     max-width: 0 auto;
+    justify-content: center;
 
 .mobile-desktop {
     display: flex;
